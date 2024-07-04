@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/projeto-gerenciamento-comunicacao/static/css/main.2d2590b1.css",
+    "main.js": "/projeto-gerenciamento-comunicacao/static/js/main.2e265e45.js",
+    "static/js/453.d08f49d9.chunk.js": "/projeto-gerenciamento-comunicacao/static/js/453.d08f49d9.chunk.js",
+    "index.html": "/projeto-gerenciamento-comunicacao/index.html",
+    "main.2d2590b1.css.map": "/projeto-gerenciamento-comunicacao/static/css/main.2d2590b1.css.map",
+    "main.2e265e45.js.map": "/projeto-gerenciamento-comunicacao/static/js/main.2e265e45.js.map",
+    "453.d08f49d9.chunk.js.map": "/projeto-gerenciamento-comunicacao/static/js/453.d08f49d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d2590b1.css",
+    "static/js/main.2e265e45.js"
+  ]
+}
